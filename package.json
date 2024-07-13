@@ -10,7 +10,9 @@
     "vue": "^3.2.13"
   },
   "devDependencies": {
-    "@vue/cli-service": "~5.0.0"
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "@vue/cli-service": "~5.0.0",
+    "leaflet": "^1.9.4"
   },
   "browserslist": [
     "> 1%",

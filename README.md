@@ -1,4 +1,4 @@
-# map
+# Map
 
 ## Project setup
 ```
@@ -17,3 +17,14 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### My linkedin profile
+```
+https://www.linkedin.com/in/amin-heydari-a2787720a/
+```
+
+### My youtube channel
+```
+https://www.youtube.com/@aminhd2658
+```
